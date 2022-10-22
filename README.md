@@ -38,8 +38,6 @@ Il s'agit d'identifier ce dont un système a besoin pour réussir, puis d'empile
 
 Ils expliquent avec plus de détails tactiques comment mettre en œuvre concrètement l'un de ces styles architecturaux. Voici quelques exemples : Conception pilotée par le domaine, MVC, etc.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 ![](Aspose.Words.f4ecc9be-d7a1-4036-b692-adb86bac8e6a.002.png)
 
 - **Les Patrons de création** : fournissent des mécanismes de création d’objets, ce qui augmente la flexibilité et la réutilisation du code.
